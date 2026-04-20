@@ -1,0 +1,11 @@
+{
+  "id": "com.aion.cruchyroll",
+  "version": "1.0.0",
+  "vendor": "AION TECHNOLOGIES",
+  "type": "web",
+  "main": "index.html",
+  "title": "crunchyroll-app-ashley",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "uiRevision": 1
+}
